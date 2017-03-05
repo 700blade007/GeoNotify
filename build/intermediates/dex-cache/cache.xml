@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_012a03a6cc2f367b50ee0af2da0951e8a178577a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_639bcc1aa4dfd11c464190f03b11a2123113c7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_acf7d10b3046f3ec8a9718af1fe5cb0b157360b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_e8be430c9f80546b76c4d6baf57e81888f89e196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_6475613e599f7fcd8b4778d5e4cbbfbfb2082f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_5e5757f2026488f419df2b0eb871feaa5daf83aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_ee36a5097e3b847fc691b105ae9afa33bafd6b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_2e25ae3fa88de659f92159a6f14706fcda2c9e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_30279dd7c06e30cde063271807ec8bf717c1b10e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_90b85fa70e80672d164b96ec14028673130cdfd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_5580ed56cbc76b7e873c424becd9e87722c786aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_fd207dbc5e4fece7e2e086c1ebdfcc907d96ae08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_04b7835410618bf9ba6b72e77b3e29edb6c83896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.0_fcba8543dad7ef5115719683d05ecfca89d83374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\AndroidStudioProjects\TryGeofencing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_9b25d0a78df0dba4b433b95f03ae39efd47af707.jar" />
+    </item>
+
+</items>
